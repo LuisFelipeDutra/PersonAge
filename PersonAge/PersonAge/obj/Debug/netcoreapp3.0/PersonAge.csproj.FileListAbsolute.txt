@@ -1,0 +1,11 @@
+C:\PROJECTS\PersonAge\PersonAge\bin\Debug\netcoreapp3.0\PersonAge.exe
+C:\PROJECTS\PersonAge\PersonAge\bin\Debug\netcoreapp3.0\PersonAge.deps.json
+C:\PROJECTS\PersonAge\PersonAge\bin\Debug\netcoreapp3.0\PersonAge.runtimeconfig.json
+C:\PROJECTS\PersonAge\PersonAge\bin\Debug\netcoreapp3.0\PersonAge.runtimeconfig.dev.json
+C:\PROJECTS\PersonAge\PersonAge\bin\Debug\netcoreapp3.0\PersonAge.dll
+C:\PROJECTS\PersonAge\PersonAge\bin\Debug\netcoreapp3.0\PersonAge.pdb
+C:\PROJECTS\PersonAge\PersonAge\obj\Debug\netcoreapp3.0\PersonAge.csprojAssemblyReference.cache
+C:\PROJECTS\PersonAge\PersonAge\obj\Debug\netcoreapp3.0\PersonAge.AssemblyInfoInputs.cache
+C:\PROJECTS\PersonAge\PersonAge\obj\Debug\netcoreapp3.0\PersonAge.AssemblyInfo.cs
+C:\PROJECTS\PersonAge\PersonAge\obj\Debug\netcoreapp3.0\PersonAge.dll
+C:\PROJECTS\PersonAge\PersonAge\obj\Debug\netcoreapp3.0\PersonAge.pdb
