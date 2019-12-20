@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJECTS\\PersonAge\\PersonAge\\PersonAge.csproj",
+      "projectUniqueName": "C:\\Users\\Luis_Dutra\\source\\repos\\PersonAge\\PersonAge\\PersonAge\\PersonAge.csproj",
       "projectName": "PersonAge",
-      "projectPath": "C:\\PROJECTS\\PersonAge\\PersonAge\\PersonAge.csproj",
+      "projectPath": "C:\\Users\\Luis_Dutra\\source\\repos\\PersonAge\\PersonAge\\PersonAge\\PersonAge.csproj",
       "packagesPath": "C:\\Users\\Luis_Dutra\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJECTS\\PersonAge\\PersonAge\\obj\\",
+      "outputPath": "C:\\Users\\Luis_Dutra\\source\\repos\\PersonAge\\PersonAge\\PersonAge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
